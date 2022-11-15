@@ -4,8 +4,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mookbin&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mookbin&theme=dark)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mookbin&theme=dark&layout=compact)]
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mookbin&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
